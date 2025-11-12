@@ -1,4 +1,6 @@
 # Snapface
+Ce code est le résultat qu'on obtient d'une version 15 d'angular adaptée pour 20, en suivant le cours d'Angular d'OpenClassRoom en suivant les cours les cours 1 et 2
+
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.3.
 
@@ -57,3 +59,4 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
